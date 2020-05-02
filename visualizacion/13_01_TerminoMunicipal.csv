@@ -1,0 +1,787 @@
+id,nombre,cod_mun,provincia
+1,Abla,04001,Almería
+2,Abrucena,04002,Almería
+3,Adamuz,14001,Córdoba
+4,Adra,04003,Almería
+5,Agrón,18001,Granada
+6,Aguadulce,41001,Sevilla
+7,Aguilar de la Frontera,14002,Córdoba
+8,Alájar,21001,Huelva
+9,Alameda,29001,Málaga
+10,Alamedilla,18002,Granada
+11,Alanís,41002,Sevilla
+12,Albaida del Aljarafe,41003,Sevilla
+13,Albanchez,04004,Almería
+14,Albanchez de Mágina,23001,Jaén
+15,Alboloduy,04005,Almería
+16,Albolote,18003,Granada
+17,Albondón,18004,Granada
+18,Albox,04006,Almería
+19,Albuñán,18005,Granada
+20,Albuñol,18006,Granada
+21,Albuñuelas,18007,Granada
+22,Alcalá de Guadaíra,41004,Sevilla
+23,Alcalá de los Gazules,11001,Cádiz
+24,Alcalá del Río,41005,Sevilla
+25,Alcalá del Valle,11002,Cádiz
+26,Alcalá la Real,23002,Jaén
+27,Alcaracejos,14003,Córdoba
+28,Alcaucín,29002,Málaga
+29,Alcaudete,23003,Jaén
+30,Alcolea,04007,Almería
+31,Alcolea del Río,41006,Sevilla
+32,Alcóntar,04008,Almería
+33,Alcudia de Monteagud,04009,Almería
+34,Aldeaquemada,23004,Jaén
+35,Aldeire,18010,Granada
+36,Alfacar,18011,Granada
+37,Alfarnate,29003,Málaga
+38,Alfarnatejo,29004,Málaga
+39,Algámitas,41008,Sevilla
+40,Algar,11003,Cádiz
+41,Algarinejo,18012,Granada
+42,Algarrobo,29005,Málaga
+43,Algatocín,29006,Málaga
+44,Algeciras,11004,Cádiz
+45,Algodonales,11005,Cádiz
+46,Alhabia,04010,Almería
+47,Alhama de Almería,04011,Almería
+48,Alhama de Granada,18013,Granada
+49,Alhaurín de la Torre,29007,Málaga
+50,Alhaurín el Grande,29008,Málaga
+51,Alhendín,18014,Granada
+52,Alicún,04012,Almería
+53,Alicún de Ortega,18015,Granada
+54,Aljaraque,21002,Huelva
+55,Almáchar,29009,Málaga
+56,Almadén de la Plata,41009,Sevilla
+57,Almargen,29010,Málaga
+58,Almedinilla,14004,Córdoba
+59,Almegíjar,18016,Granada
+60,Almensilla,41010,Sevilla
+61,Almería,04013,Almería
+62,Almócita,04014,Almería
+63,Almodóvar del Río,14005,Córdoba
+64,Almogía,29011,Málaga
+65,Almonaster la Real,21004,Huelva
+66,Almonte,21005,Huelva
+67,Almuñécar,18017,Granada
+68,Álora,29012,Málaga
+69,Alosno,21006,Huelva
+70,Alozaina,29013,Málaga
+71,Alpandeire,29014,Málaga
+72,Alpujarra de la Sierra,18904,Granada
+73,Alquife,18018,Granada
+74,Alsodux,04015,Almería
+75,Andújar,23005,Jaén
+76,Añora,14006,Córdoba
+77,Antas,04016,Almería
+78,Antequera,29015,Málaga
+79,Aracena,21007,Huelva
+80,Arahal,41011,Sevilla
+81,Arboleas,04017,Almería
+82,Árchez,29016,Málaga
+83,Archidona,29017,Málaga
+84,Arcos de la Frontera,11006,Cádiz
+85,Ardales,29018,Málaga
+86,Arenas,29019,Málaga
+87,Arenas del Rey,18020,Granada
+88,Arjona,23006,Jaén
+89,Arjonilla,23007,Jaén
+90,Armilla,18021,Granada
+91,Armuña de Almanzora,04018,Almería
+92,Aroche,21008,Huelva
+93,Arquillos,23008,Jaén
+94,Arriate,29020,Málaga
+95,Arroyo del Ojanco,23905,Jaén
+96,Arroyomolinos de León,21009,Huelva
+97,Atajate,29021,Málaga
+98,Atarfe,18022,Granada
+99,Ayamonte,21010,Huelva
+100,Aznalcázar,41012,Sevilla
+101,Aznalcóllar,41013,Sevilla
+102,Bacares,04019,Almería
+103,Badolatosa,41014,Sevilla
+104,Baena,14007,Córdoba
+105,Baeza,23009,Jaén
+106,Bailén,23010,Jaén
+107,Balanegra,04904,Almería
+108,Baños de la Encina,23011,Jaén
+109,Barbate,11007,Cádiz
+110,Bayárcal,04020,Almería
+111,Bayarque,04021,Almería
+112,Baza,18023,Granada
+113,Beas,21011,Huelva
+114,Beas de Granada,18024,Granada
+115,Beas de Guadix,18025,Granada
+116,Beas de Segura,23012,Jaén
+117,Bédar,04022,Almería
+118,Bedmar y Garcíez,23902,Jaén
+119,Begíjar,23014,Jaén
+120,Beires,04023,Almería
+121,Belalcázar,14008,Córdoba
+122,Belmez,14009,Córdoba
+123,Bélmez de la Moraleda,23015,Jaén
+124,Benacazón,41015,Sevilla
+125,Benadalid,29022,Málaga
+126,Benahadux,04024,Almería
+127,Benahavís,29023,Málaga
+128,Benalauría,29024,Málaga
+129,Benalmádena,29025,Málaga
+130,Benalúa,18027,Granada
+131,Benalúa de las Villas,18028,Granada
+132,Benalup-Casas Viejas,11901,Cádiz
+133,Benamargosa,29026,Málaga
+134,Benamaurel,18029,Granada
+135,Benamejí,14010,Córdoba
+136,Benamocarra,29027,Málaga
+137,Benaocaz,11009,Cádiz
+138,Benaoján,29028,Málaga
+139,Benarrabá,29029,Málaga
+140,Benatae,23016,Jaén
+141,Benitagla,04026,Almería
+142,Benizalón,04027,Almería
+143,Bentarique,04028,Almería
+144,Bérchules,18030,Granada
+145,Berja,04029,Almería
+146,Berrocal,21012,Huelva
+147,Bollullos de la Mitación,41016,Sevilla
+148,Bollullos Par del Condado,21013,Huelva
+149,Bonares,21014,Huelva
+150,Bormujos,41017,Sevilla
+151,Bornos,11010,Cádiz
+152,Brenes,41018,Sevilla
+153,Bubión,18032,Granada
+154,Bujalance,14012,Córdoba
+155,Burguillos,41019,Sevilla
+156,Busquístar,18033,Granada
+157,Cabezas Rubias,21015,Huelva
+158,Cabra,14013,Córdoba
+159,Cabra del Santo Cristo,23017,Jaén
+160,Cacín,18034,Granada
+161,Cádiar,18035,Granada
+162,Cádiz,11012,Cádiz
+163,Cájar,18036,Granada
+164,Cala,21016,Huelva
+165,Calañas,21017,Huelva
+166,Calicasas,18037,Granada
+167,Camas,41021,Sevilla
+168,Cambil,23018,Jaén
+169,Campillo de Arenas,23019,Jaén
+170,Campillos,29032,Málaga
+171,Campofrío,21019,Huelva
+172,Campotéjar,18038,Granada
+173,Cañada Rosal,41901,Sevilla
+174,Cáñar,18040,Granada
+175,Cañaveral de León,21020,Huelva
+176,Canena,23020,Jaén
+177,Cañete de las Torres,14014,Córdoba
+178,Cañete la Real,29035,Málaga
+179,Caniles,18039,Granada
+180,Canillas de Aceituno,29033,Málaga
+181,Canillas de Albaida,29034,Málaga
+182,Canjáyar,04030,Almería
+183,Cantillana,41023,Sevilla
+184,Cantoria,04031,Almería
+185,Capileira,18042,Granada
+186,Carataunas,18043,Granada
+187,Carboneras,04032,Almería
+188,Carboneros,23021,Jaén
+189,Carcabuey,14015,Córdoba
+190,Cárcheles,23901,Jaén
+191,Cardeña,14016,Córdoba
+192,Carmona,41024,Sevilla
+193,Carratraca,29036,Málaga
+194,Carrión de los Céspedes,41025,Sevilla
+195,Cartajima,29037,Málaga
+196,Cártama,29038,Málaga
+197,Cartaya,21021,Huelva
+198,Casabermeja,29039,Málaga
+199,Casarabonela,29040,Málaga
+200,Casares,29041,Málaga
+201,Casariche,41026,Sevilla
+202,Castaño del Robledo,21022,Huelva
+203,Cástaras,18044,Granada
+204,Castellar,23025,Jaén
+205,Castellar de la Frontera,11013,Cádiz
+206,Castilblanco de los Arroyos,41027,Sevilla
+207,Castilleja de Guzmán,41028,Sevilla
+208,Castilleja de la Cuesta,41029,Sevilla
+209,Castilleja del Campo,41030,Sevilla
+210,Castilléjar,18045,Granada
+211,Castillo de Locubín,23026,Jaén
+212,Castril,18046,Granada
+213,Castro de Filabres,04033,Almería
+214,Castro del Río,14019,Córdoba
+215,Cazalilla,23027,Jaén
+216,Cazalla de la Sierra,41032,Sevilla
+217,Cazorla,23028,Jaén
+218,Cenes de la Vega,18047,Granada
+219,Chauchina,18059,Granada
+220,Chercos,04036,Almería
+221,Chiclana de la Frontera,11015,Cádiz
+222,Chiclana de Segura,23029,Jaén
+223,Chilluévar,23030,Jaén
+224,Chimeneas,18061,Granada
+225,Chipiona,11016,Cádiz
+226,Chirivel,04037,Almería
+227,Chucena,21030,Huelva
+228,Churriana de la Vega,18062,Granada
+229,Cijuela,18048,Granada
+230,Cóbdar,04034,Almería
+231,Cogollos de Guadix,18049,Granada
+232,Cogollos de la Vega,18050,Granada
+233,Coín,29042,Málaga
+234,Colmenar,29043,Málaga
+235,Colomera,18051,Granada
+236,Comares,29044,Málaga
+237,Cómpeta,29045,Málaga
+238,Conil de la Frontera,11014,Cádiz
+239,Conquista,14020,Córdoba
+240,Constantina,41033,Sevilla
+241,Córdoba,14021,Córdoba
+242,Coria del Río,41034,Sevilla
+243,Coripe,41035,Sevilla
+244,Corteconcepción,21024,Huelva
+245,Cortegana,21025,Huelva
+246,Cortelazor,21026,Huelva
+247,Cortes de Baza,18053,Granada
+248,Cortes de la Frontera,29046,Málaga
+249,Cortes y Graena,18054,Granada
+250,Cuevas Bajas,29047,Málaga
+251,Cuevas del Almanzora,04035,Almería
+252,Cuevas del Becerro,29048,Málaga
+253,Cuevas del Campo,18912,Granada
+254,Cuevas de San Marcos,29049,Málaga
+255,Cúllar,18056,Granada
+256,Cúllar Vega,18057,Granada
+257,Cumbres de Enmedio,21027,Huelva
+258,Cumbres de San Bartolomé,21028,Huelva
+259,Cumbres Mayores,21029,Huelva
+260,Cútar,29050,Málaga
+261,Dalías,04038,Almería
+262,Darro,18063,Granada
+263,Dehesas de Guadix,18064,Granada
+264,Dehesas Viejas,18065,Granada
+265,Deifontes,18066,Granada
+266,Diezma,18067,Granada
+267,Dílar,18068,Granada
+268,Dólar,18069,Granada
+269,Domingo Pérez de Granada,18915,Granada
+270,Doña Mencía,14022,Córdoba
+271,Dos Hermanas,41038,Sevilla
+272,Dos Torres,14023,Córdoba
+273,Dúdar,18070,Granada
+274,Dúrcal,18071,Granada
+275,Écija,41039,Sevilla
+276,El Almendro,21003,Huelva
+277,El Borge,29030,Málaga
+278,El Bosque,11011,Cádiz
+279,El Burgo,29031,Málaga
+280,El Campillo,21018,Huelva
+281,El Carpio,14018,Córdoba
+282,El Castillo de las Guardas,41031,Sevilla
+283,El Cerro de Andévalo,21023,Huelva
+284,El Coronil,41036,Sevilla
+285,El Cuervo de Sevilla,41903,Sevilla
+286,El Ejido,04902,Almería
+287,El Garrobo,41043,Sevilla
+288,El Gastor,11018,Cádiz
+289,El Granado,21037,Huelva
+290,El Guijo,14034,Córdoba
+291,El Madroño,41057,Sevilla
+292,El Palmar de Troya,41904,Sevilla
+293,El Pedroso,41073,Sevilla
+294,El Pinar,18910,Granada
+295,El Puerto de Santa María,11027,Cádiz
+296,El Real de la Jara,41080,Sevilla
+297,El Ronquillo,41083,Sevilla
+298,El Rubio,41084,Sevilla
+299,El Saucejo,41090,Sevilla
+300,El Valle,18902,Granada
+301,El Viso,14074,Córdoba
+302,El Viso del Alcor,41102,Sevilla
+303,Encinasola,21031,Huelva
+304,Encinas Reales,14024,Córdoba
+305,Enix,04041,Almería
+306,Escacena del Campo,21032,Huelva
+307,Escañuela,23031,Jaén
+308,Escúzar,18072,Granada
+309,Espartinas,41040,Sevilla
+310,Espejo,14025,Córdoba
+311,Espeluy,23032,Jaén
+312,Espera,11017,Cádiz
+313,Espiel,14026,Córdoba
+314,Estepa,41041,Sevilla
+315,Estepona,29051,Málaga
+316,Faraján,29052,Málaga
+317,Felix,04043,Almería
+318,Fernán-Núñez,14027,Córdoba
+319,Ferreira,18074,Granada
+320,Fiñana,04045,Almería
+321,Fines,04044,Almería
+322,Fondón,04046,Almería
+323,Fonelas,18076,Granada
+324,Fornes,18077,Granada
+325,Frailes,23033,Jaén
+326,Freila,18078,Granada
+327,Frigiliana,29053,Málaga
+328,Fuengirola,29054,Málaga
+329,Fuensanta de Martos,23034,Jaén
+330,Fuente Carreteros,14901,Córdoba
+331,Fuente de Piedra,29055,Málaga
+332,Fuenteheridos,21033,Huelva
+333,Fuente la Lancha,14028,Córdoba
+334,Fuente Obejuna,14029,Córdoba
+335,Fuente Palmera,14030,Córdoba
+336,Fuentes de Andalucía,41042,Sevilla
+337,Fuente-Tójar,14031,Córdoba
+338,Fuente Vaqueros,18079,Granada
+339,Fuerte del Rey,23035,Jaén
+340,Gádor,04047,Almería
+341,Galaroza,21034,Huelva
+342,Galera,18082,Granada
+343,Garrucha,04049,Almería
+344,Gaucín,29056,Málaga
+345,Gelves,41044,Sevilla
+346,Genalguacil,29057,Málaga
+347,Génave,23037,Jaén
+348,Gerena,41045,Sevilla
+349,Gérgal,04050,Almería
+350,Gibraleón,21035,Huelva
+351,Gilena,41046,Sevilla
+352,Gines,41047,Sevilla
+353,Gobernador,18083,Granada
+354,Gójar,18084,Granada
+355,Gor,18085,Granada
+356,Gorafe,18086,Granada
+357,Granada,18087,Granada
+358,Grazalema,11019,Cádiz
+359,Guadahortuna,18088,Granada
+360,Guadalcanal,41048,Sevilla
+361,Guadalcázar,14033,Córdoba
+362,Guadix,18089,Granada
+363,Gualchos,18093,Granada
+364,Guaro,29058,Málaga
+365,Guarromán,23039,Jaén
+366,Güéjar Sierra,18094,Granada
+367,Güevéjar,18095,Granada
+368,Guillena,41049,Sevilla
+369,Herrera,41050,Sevilla
+370,Higuera de Calatrava,23041,Jaén
+371,Higuera de la Sierra,21038,Huelva
+372,Hinojales,21039,Huelva
+373,Hinojares,23042,Jaén
+374,Hinojos,21040,Huelva
+375,Hinojosa del Duque,14035,Córdoba
+376,Hornachuelos,14036,Córdoba
+377,Hornos,23043,Jaén
+378,Huécija,04051,Almería
+379,Huélago,18096,Granada
+380,Huelma,23044,Jaén
+381,Huelva,21041,Huelva
+382,Huéneja,18097,Granada
+383,Huércal de Almería,04052,Almería
+384,Huércal-Overa,04053,Almería
+385,Huesa,23045,Jaén
+386,Huéscar,18098,Granada
+387,Huétor de Santillán,18099,Granada
+388,Huétor Tájar,18100,Granada
+389,Huétor Vega,18101,Granada
+390,Huévar del Aljarafe,41051,Sevilla
+391,Humilladero,29059,Málaga
+392,Ibros,23046,Jaén
+393,Igualeja,29060,Málaga
+394,Íllar,04054,Almería
+395,Íllora,18102,Granada
+396,Instinción,04055,Almería
+397,Isla Cristina,21042,Huelva
+398,Isla Mayor,41902,Sevilla
+399,Istán,29061,Málaga
+400,Ítrabo,18103,Granada
+401,Iznájar,14037,Córdoba
+402,Iznalloz,18105,Granada
+403,Iznate,29062,Málaga
+404,Iznatoraf,23048,Jaén
+405,Jabalquinto,23049,Jaén
+406,Jabugo,21043,Huelva
+407,Jaén,23050,Jaén
+408,Jamilena,23051,Jaén
+409,Játar,18106,Granada
+410,Jayena,18107,Granada
+411,Jerez de la Frontera,11020,Cádiz
+412,Jérez del Marquesado,18108,Granada
+413,Jete,18109,Granada
+414,Jimena,23052,Jaén
+415,Jimena de la Frontera,11021,Cádiz
+416,Jimera de Líbar,29063,Málaga
+417,Jódar,23053,Jaén
+418,Jubrique,29064,Málaga
+419,Jun,18111,Granada
+420,Juviles,18112,Granada
+421,Júzcar,29065,Málaga
+422,La Algaba,41007,Sevilla
+423,La Calahorra,18114,Granada
+424,La Campana,41022,Sevilla
+425,La Carlota,14017,Córdoba
+426,La Carolina,23024,Jaén
+427,Láchar,18115,Granada
+428,La Granada de Río-Tinto,21036,Huelva
+429,La Granjuela,14032,Córdoba
+430,La Guardia de Jaén,23038,Jaén
+431,La Guijarrosa,14902,Córdoba
+432,Lahiguera,23040,Jaén
+433,La Iruela,23047,Jaén
+434,La Línea de la Concepción,11022,Cádiz
+435,La Luisiana,41056,Sevilla
+436,La Malahá,18126,Granada
+437,La Mojonera,04903,Almería
+438,La Nava,21051,Huelva
+439,Lanjarón,18116,Granada
+440,Lanteira,18117,Granada
+441,Lantejuela,41052,Sevilla
+442,La Palma del Condado,21054,Huelva
+443,La Peza,18154,Granada
+444,La Puebla de Cazalla,41077,Sevilla
+445,La Puebla de los Infantes,41078,Sevilla
+446,La Puebla del Río,41079,Sevilla
+447,La Puerta de Segura,23072,Jaén
+448,La Rambla,14057,Córdoba
+449,La Rinconada,41081,Sevilla
+450,La Roda de Andalucía,41082,Sevilla
+451,Laroya,04056,Almería
+452,Larva,23054,Jaén
+453,Las Cabezas de San Juan,41020,Sevilla
+454,Las Gabias,18905,Granada
+455,Las Navas de la Concepción,41066,Sevilla
+456,Las Tres Villas,04901,Almería
+457,La Taha,18901,Granada
+458,Láujar de Andarax,04057,Almería
+459,La Victoria,14065,Córdoba
+460,La Zarza-Perrunal,21902,Huelva
+461,La Zubia,18193,Granada
+462,Lebrija,41053,Sevilla
+463,Lecrín,18119,Granada
+464,Lentegí,18120,Granada
+465,Lepe,21044,Huelva
+466,Líjar,04058,Almería
+467,Linares,23055,Jaén
+468,Linares de la Sierra,21045,Huelva
+469,Lobras,18121,Granada
+470,Loja,18122,Granada
+471,Lopera,23056,Jaén
+472,Lora de Estepa,41054,Sevilla
+473,Lora del Río,41055,Sevilla
+474,Los Barrios,11008,Cádiz
+475,Los Blázquez,14011,Córdoba
+476,Los Corrales,41037,Sevilla
+477,Los Gallardos,04048,Almería
+478,Los Guájares,18906,Granada
+479,Los Marines,21048,Huelva
+480,Los Molares,41063,Sevilla
+481,Los Palacios y Villafranca,41069,Sevilla
+482,Los Villares,23099,Jaén
+483,Lubrín,04059,Almería
+484,Lucainena de las Torres,04060,Almería
+485,Lúcar,04061,Almería
+486,Lucena,14038,Córdoba
+487,Lucena del Puerto,21046,Huelva
+488,Lugros,18123,Granada
+489,Lújar,18124,Granada
+490,Lupión,23057,Jaén
+491,Luque,14039,Córdoba
+492,Macael,04062,Almería
+493,Macharaviaya,29066,Málaga
+494,Mairena del Alcor,41058,Sevilla
+495,Mairena del Aljarafe,41059,Sevilla
+496,Málaga,29067,Málaga
+497,Mancha Real,23058,Jaén
+498,Manilva,29068,Málaga
+499,Manzanilla,21047,Huelva
+500,Maracena,18127,Granada
+501,Marbella,29069,Málaga
+502,Marchal,18128,Granada
+503,Marchena,41060,Sevilla
+504,María,04063,Almería
+505,Marinaleda,41061,Sevilla
+506,Marmolejo,23059,Jaén
+507,Martín de la Jara,41062,Sevilla
+508,Martos,23060,Jaén
+509,Medina Sidonia,11023,Cádiz
+510,Mengíbar,23061,Jaén
+511,Mijas,29070,Málaga
+512,Minas de Riotinto,21049,Huelva
+513,Moclín,18132,Granada
+514,Moclinejo,29071,Málaga
+515,Moguer,21050,Huelva
+516,Mojácar,04064,Almería
+517,Mollina,29072,Málaga
+518,Molvízar,18133,Granada
+519,Monachil,18134,Granada
+520,Monda,29073,Málaga
+521,Montalbán de Córdoba,14040,Córdoba
+522,Montecorto,29903,Málaga
+523,Montefrío,18135,Granada
+524,Montejaque,29074,Málaga
+525,Montejícar,18136,Granada
+526,Montellano,41064,Sevilla
+527,Montemayor,14041,Córdoba
+528,Montilla,14042,Córdoba
+529,Montillana,18137,Granada
+530,Montizón,23062,Jaén
+531,Montoro,14043,Córdoba
+532,Monturque,14044,Córdoba
+533,Moraleda de Zafayona,18138,Granada
+534,Morelábor,18909,Granada
+535,Moriles,14045,Córdoba
+536,Morón de la Frontera,41065,Sevilla
+537,Motril,18140,Granada
+538,Murtas,18141,Granada
+539,Nacimiento,04065,Almería
+540,Navas de San Juan,23063,Jaén
+541,Nerja,29075,Málaga
+542,Nerva,21052,Huelva
+543,Nevada,18903,Granada
+544,Niebla,21053,Huelva
+545,Nigüelas,18143,Granada
+546,Níjar,04066,Almería
+547,Nívar,18144,Granada
+548,Noalejo,23064,Jaén
+549,Nueva Carteya,14046,Córdoba
+550,Obejo,14047,Córdoba
+551,Ogíjares,18145,Granada
+552,Ohanes,04067,Almería
+553,Ojén,29076,Málaga
+554,Olivares,41067,Sevilla
+555,Olula de Castro,04068,Almería
+556,Olula del Río,04069,Almería
+557,Olvera,11024,Cádiz
+558,Orce,18146,Granada
+559,Orcera,23065,Jaén
+560,Órgiva,18147,Granada
+561,Oria,04070,Almería
+562,Osuna,41068,Sevilla
+563,Otívar,18148,Granada
+564,Padul,18150,Granada
+565,Padules,04071,Almería
+566,Palenciana,14048,Córdoba
+567,Palma del Río,14049,Córdoba
+568,Palomares del Río,41070,Sevilla
+569,Palos de la Frontera,21055,Huelva
+570,Pampaneira,18151,Granada
+571,Paradas,41071,Sevilla
+572,Parauta,29077,Málaga
+573,Partaloa,04072,Almería
+574,Paterna del Campo,21056,Huelva
+575,Paterna del Río,04073,Almería
+576,Paterna de Rivera,11025,Cádiz
+577,Paymogo,21057,Huelva
+578,Peal de Becerro,23066,Jaén
+579,Pechina,04074,Almería
+580,Pedrera,41072,Sevilla
+581,Pedro Abad,14050,Córdoba
+582,Pedroche,14051,Córdoba
+583,Pedro Martínez,18152,Granada
+584,Pegalajar,23067,Jaén
+585,Peligros,18153,Granada
+586,Peñaflor,41074,Sevilla
+587,Peñarroya-Pueblonuevo,14052,Córdoba
+588,Periana,29079,Málaga
+589,Pilas,41075,Sevilla
+590,Píñar,18159,Granada
+591,Pinos Genil,18157,Granada
+592,Pinos Puente,18158,Granada
+593,Pizarra,29080,Málaga
+594,Polícar,18161,Granada
+595,Polopos,18162,Granada
+596,Porcuna,23069,Jaén
+597,Pórtugos,18163,Granada
+598,Posadas,14053,Córdoba
+599,Pozo Alcón,23070,Jaén
+600,Pozoblanco,14054,Córdoba
+601,Prado del Rey,11026,Cádiz
+602,Priego de Córdoba,14055,Córdoba
+603,Pruna,41076,Sevilla
+604,Puebla de Don Fadrique,18164,Granada
+605,Puebla de Guzmán,21058,Huelva
+606,Puente de Génave,23071,Jaén
+607,Puente Genil,14056,Córdoba
+608,Puerto Moral,21059,Huelva
+609,Puerto Real,11028,Cádiz
+610,Puerto Serrano,11029,Cádiz
+611,Pujerra,29081,Málaga
+612,Pulianas,18165,Granada
+613,Pulpí,04075,Almería
+614,Punta Umbría,21060,Huelva
+615,Purchena,04076,Almería
+616,Purullena,18167,Granada
+617,Quéntar,18168,Granada
+618,Quesada,23073,Jaén
+619,Rágol,04077,Almería
+620,Rincón de la Victoria,29082,Málaga
+621,Riogordo,29083,Málaga
+622,Rioja,04078,Almería
+623,Rociana del Condado,21061,Huelva
+624,Ronda,29084,Málaga
+625,Roquetas de Mar,04079,Almería
+626,Rosal de la Frontera,21062,Huelva
+627,Rota,11030,Cádiz
+628,Rubite,18170,Granada
+629,Rus,23074,Jaén
+630,Rute,14058,Córdoba
+631,Sabiote,23075,Jaén
+632,Salar,18171,Granada
+633,Salares,29085,Málaga
+634,Salobreña,18173,Granada
+635,Salteras,41085,Sevilla
+636,San Bartolomé de la Torre,21063,Huelva
+637,San Fernando,11031,Cádiz
+638,San José del Valle,11902,Cádiz
+639,San Juan de Aznalfarache,41086,Sevilla
+640,San Juan del Puerto,21064,Huelva
+641,Sanlúcar de Barrameda,11032,Cádiz
+642,Sanlúcar de Guadiana,21065,Huelva
+643,Sanlúcar la Mayor,41087,Sevilla
+644,San Martín del Tesorillo,11903,Cádiz
+645,San Nicolás del Puerto,41088,Sevilla
+646,San Roque,11033,Cádiz
+647,San Sebastián de los Ballesteros,14059,Córdoba
+648,San Silvestre de Guzmán,21066,Huelva
+649,Santa Ana la Real,21067,Huelva
+650,Santa Bárbara de Casa,21068,Huelva
+651,Santa Cruz del Comercio,18174,Granada
+652,Santa Cruz de Marchena,04080,Almería
+653,Santa Elena,23076,Jaén
+654,Santaella,14060,Córdoba
+655,Santa Eufemia,14061,Córdoba
+656,Santa Fe,18175,Granada
+657,Santa Fe de Mondújar,04081,Almería
+658,Santa Olalla del Cala,21069,Huelva
+659,Santiago de Calatrava,23077,Jaén
+660,Santiago-Pontones,23904,Jaén
+661,Santiponce,41089,Sevilla
+662,Santisteban del Puerto,23079,Jaén
+663,Santo Tomé,23080,Jaén
+664,Sayalonga,29086,Málaga
+665,Sedella,29087,Málaga
+666,Segura de la Sierra,23081,Jaén
+667,Senés,04082,Almería
+668,Serón,04083,Almería
+669,Serrato,29904,Málaga
+670,Setenil de las Bodegas,11034,Cádiz
+671,Sevilla,41091,Sevilla
+672,Sierra de Yeguas,29088,Málaga
+673,Sierro,04084,Almería
+674,Siles,23082,Jaén
+675,Somontín,04085,Almería
+676,Soportújar,18176,Granada
+677,Sorbas,04086,Almería
+678,Sorihuela del Guadalimar,23084,Jaén
+679,Sorvilán,18177,Granada
+680,Suflí,04087,Almería
+681,Tabernas,04088,Almería
+682,Taberno,04089,Almería
+683,Tahal,04090,Almería
+684,Tarifa,11035,Cádiz
+685,Teba,29089,Málaga
+686,Terque,04091,Almería
+687,Tharsis,21081,Huelva
+688,Tíjola,04092,Almería
+689,Tocina,41092,Sevilla
+690,Tolox,29090,Málaga
+691,Tomares,41093,Sevilla
+692,Torre Alháquime,11036,Cádiz
+693,Torreblascopedro,23085,Jaén
+694,Torrecampo,14062,Córdoba
+695,Torre-Cardela,18178,Granada
+696,Torredelcampo,23086,Jaén
+697,Torredonjimeno,23087,Jaén
+698,Torremolinos,29901,Málaga
+699,Torrenueva Costa,18916,Granada
+700,Torreperogil,23088,Jaén
+701,Torres,23090,Jaén
+702,Torres de Albánchez,23091,Jaén
+703,Torrox,29091,Málaga
+704,Torvizcón,18179,Granada
+705,Totalán,29092,Málaga
+706,Trebujena,11037,Cádiz
+707,Trevélez,18180,Granada
+708,Trigueros,21070,Huelva
+709,Turón,18181,Granada
+710,Turre,04093,Almería
+711,Turrillas,04094,Almería
+712,Úbeda,23092,Jaén
+713,Ubrique,11038,Cádiz
+714,Ugíjar,18182,Granada
+715,Uleila del Campo,04095,Almería
+716,Umbrete,41094,Sevilla
+717,Urrácal,04096,Almería
+718,Utrera,41095,Sevilla
+719,Valdelarco,21071,Huelva
+720,Valdepeñas de Jaén,23093,Jaén
+721,Valderrubio,18914,Granada
+722,Valencina de la Concepción,41096,Sevilla
+723,Valenzuela,14063,Córdoba
+724,Valle de Abdalajís,29093,Málaga
+725,Valle del Zalabí,18907,Granada
+726,Válor,18183,Granada
+727,Valsequillo,14064,Córdoba
+728,Valverde del Camino,21072,Huelva
+729,Vegas del Genil,18911,Granada
+730,Vejer de la Frontera,11039,Cádiz
+731,Velefique,04097,Almería
+732,Vélez-Blanco,04098,Almería
+733,Vélez de Benaudalla,18184,Granada
+734,Vélez-Málaga,29094,Málaga
+735,Vélez-Rubio,04099,Almería
+736,Ventas de Huelma,18185,Granada
+737,Vera,04100,Almería
+738,Viator,04101,Almería
+739,Vícar,04102,Almería
+740,Vilches,23094,Jaén
+741,Villablanca,21073,Huelva
+742,Villacarrillo,23095,Jaén
+743,Villa del Río,14066,Córdoba
+744,Villa de Otura,18149,Granada
+745,Villafranca de Córdoba,14067,Córdoba
+746,Villaharta,14068,Córdoba
+747,Villalba del Alcor,21074,Huelva
+748,Villaluenga del Rosario,11040,Cádiz
+749,Villamanrique de la Condesa,41097,Sevilla
+750,Villamartín,11041,Cádiz
+751,Villamena,18908,Granada
+752,Villanueva de Algaidas,29095,Málaga
+753,Villanueva de Córdoba,14069,Córdoba
+754,Villanueva de la Concepción,29902,Málaga
+755,Villanueva de la Reina,23096,Jaén
+756,Villanueva del Ariscal,41098,Sevilla
+757,Villanueva del Arzobispo,23097,Jaén
+758,Villanueva de las Cruces,21075,Huelva
+759,Villanueva de las Torres,18187,Granada
+760,Villanueva del Duque,14070,Córdoba
+761,Villanueva de los Castillejos,21076,Huelva
+762,Villanueva del Rey,14071,Córdoba
+763,Villanueva del Río y Minas,41099,Sevilla
+764,Villanueva del Rosario,29096,Málaga
+765,Villanueva del Trabuco,29097,Málaga
+766,Villanueva de San Juan,41100,Sevilla
+767,Villanueva de Tapia,29098,Málaga
+768,Villanueva Mesía,18188,Granada
+769,Villaralto,14072,Córdoba
+770,Villardompardo,23098,Jaén
+771,Villarrasa,21077,Huelva
+772,Villarrodrigo,23101,Jaén
+773,Villatorres,23903,Jaén
+774,Villaverde del Río,41101,Sevilla
+775,Villaviciosa de Córdoba,14073,Córdoba
+776,Viñuela,29099,Málaga
+777,Víznar,18189,Granada
+778,Yunquera,29100,Málaga
+779,Zafarraya,18192,Granada
+780,Zagra,18913,Granada
+781,Zahara,11042,Cádiz
+782,Zalamea la Real,21078,Huelva
+783,Zufre,21079,Huelva
+784,Zuheros,14075,Córdoba
+785,Zújar,18194,Granada
+786,Zurgena,04103,Almería
